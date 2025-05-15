@@ -13,3 +13,5 @@ matrix = [[0 for col in range(4)] for row in range(3)]
 
 print(matrix)
 
+#se usara cuando hay que recorrer diccionarios con elementos anidados
+
